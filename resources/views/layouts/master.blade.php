@@ -6,7 +6,7 @@
     @include('includes.components.style')
 </head>
 {{-- <body class="lg:px-5 px-1 bg-no-repeat w-full h-full" style="background-image: url(assets/background3.jpeg)"> --}}
-<body class="lg:px-5 px-1 w-full h-full bg-gray-900">
+<body class="lg:px-5 px-1 w-full h-full bg-white">
     @include('includes.components.navbar')
     <div class="inline-flex w-full">
         @include('includes.components.side')
